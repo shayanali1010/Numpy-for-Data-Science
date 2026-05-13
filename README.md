@@ -1,3 +1,5 @@
+# Numpy-for-Data-Science
+NumPy practice for Data Science fundamentals.
 # NumPy for Data Science 📊
 
 This repository contains my complete practice work for learning **NumPy**, a core library for Data Science in Python.
