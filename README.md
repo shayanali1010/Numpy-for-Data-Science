@@ -6,7 +6,6 @@ This repository contains my complete practice work for learning **NumPy**, a cor
 
 The goal of this project is to build strong fundamentals in numerical computing, which is essential for Data Science, Machine Learning, and AI.
 
----
 
 ## 📚 Topics Covered
 
@@ -16,7 +15,6 @@ The goal of this project is to build strong fundamentals in numerical computing,
 - Array indexing and slicing
 - Array reshaping (reshape, flatten, ravel)
 
----
 
 ### 🔍 Array Operations
 - Sorting arrays
@@ -25,7 +23,6 @@ The goal of this project is to build strong fundamentals in numerical computing,
 - Fancy indexing
 - Using `np.where()` for conditional selection
 
----
 
 ### ➕ Data Manipulation
 - Adding and removing elements
@@ -33,7 +30,6 @@ The goal of this project is to build strong fundamentals in numerical computing,
 - Deleting elements from arrays
 - Array compatibility (broadcasting rules)
 
----
 
 ### ⚡ Advanced Operations
 - Vectorized operations (faster computation)
@@ -45,14 +41,12 @@ The goal of this project is to build strong fundamentals in numerical computing,
 - Vector multiplication
 - Dot product of vectors
 
----
 
 ### 💾 Data Handling
 - Loading data using NumPy
 - Saving arrays to files
 - Data transformation techniques
 
----
 
 ### 📈 Data Visualization (Basic)
 - Introduction to Matplotlib
